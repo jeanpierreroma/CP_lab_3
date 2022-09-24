@@ -1,0 +1,8 @@
+Korzh employee 23.03.2003
+Fedochenko trainee 26.04.2003
+Olshanska senior_employee 27.05.2003
+Berchuk employee 16.05.2003
+Korol manager 29.11.2003
+Nasobkov director 08.10.2002
+Madskyi manager 07.02.2003
+Senyk trainee 07.02.2003
