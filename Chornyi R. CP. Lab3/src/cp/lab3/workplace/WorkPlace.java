@@ -136,7 +136,7 @@ public class WorkPlace {
             var dataOfEnt = entry.getKey().split("-");
             int yearOfEnt = Integer.parseInt(dataOfEnt[2]);
 
-            if(thisYear - yearOfEnt <= 20) {
+            if(thisYear - yearOfEnt <= 19) {
                 resMap.put(entry.getKey(), entry.getValue());
             }
         }

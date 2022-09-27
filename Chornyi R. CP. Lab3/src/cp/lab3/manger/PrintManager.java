@@ -12,8 +12,8 @@ public class PrintManager {
         }
     }
 
-    public static void printMap(LinkedHashMap map) {
-        System.out.println(String.format("%-25s%-25s", "Office", "Count of employees"));
+    public static void printMap(LinkedHashMap map, String format) {
+        System.out.println(format);
 
 
         LinkedHashMap<String, List<String>> m = new LinkedHashMap<>(map);
